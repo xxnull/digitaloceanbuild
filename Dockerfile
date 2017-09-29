@@ -1,4 +1,4 @@
-FROM dockerfile/nginx
+FROM nginx
 
 
 
